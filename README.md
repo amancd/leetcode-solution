@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/amancd/leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/amancd/leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Math
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
