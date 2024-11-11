@@ -25,7 +25,6 @@ class Solution:
                     nums[i] = nums[i] - n
                     break
 
-        for i in range(1, len(nums)):
-            if nums[i] <= nums[i - 1]:
-                return False
-        return True
+        if nums == sorted(nums) and len(set(nums)) == len(nums):
+            return True
+        return False
