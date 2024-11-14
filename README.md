@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/amancd/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/amancd/leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/amancd/leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amancd/leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/amancd/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/amancd/leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/amancd/leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amancd/leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
