@@ -16,17 +16,14 @@ class Solution:
         nums1 = arr[:left+1]
         nums2 = arr[right:]
         
-        maximum = max(left + 1, len(arr) - right)  # Either prefix or suffix length
+        maximum = max(left + 1, len(arr) - right)
 
-        # Add a two-pointer merge logic
         i, j = 0, 0
         while i < len(nums1) and j < len(nums2):
             if nums1[i] <= nums2[j]:
-                # Extend sorted length
                 maximum = max(maximum, i + 1 + len(nums2) - j)
                 i += 1
             else:
                 j += 1
 
-        # Return the length of the array minus the maximum sorted length
         return len(arr) - maximum
