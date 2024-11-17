@@ -79,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amancd/leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amancd/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amancd/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
