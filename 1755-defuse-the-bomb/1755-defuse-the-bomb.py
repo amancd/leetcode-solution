@@ -14,11 +14,11 @@ class Solution:
 
             elif k < 0:  # Backward traversal
                 for right in range(1, abs(k)+1):
-                    idx = (left - 1 - right + n) % n  # Correct backward index
+                    idx = (left - 1 - right + n) % n
                     total += code[idx]
                 result.append(total)
 
-            else:  # k == 0, all zeros
+            else:
                 return [0] * n
 
         return result
