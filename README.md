@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/amancd/leetcode-solution/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/amancd/leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Matrix
 |  |
