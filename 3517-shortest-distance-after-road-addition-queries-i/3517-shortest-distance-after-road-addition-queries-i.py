@@ -5,19 +5,23 @@ class Solution:
         for i in range(n - 1):
             graph[i].append(i + 1)
 
+        print(graph)
+
         def bfs(start, target):
             queue = deque([start])
-            distances = [-1] * n
-            distances[start] = 0
+            visited = [-1] * n
+            visited[start] = 0
+
+            print(visited)
 
             while queue:
                 node = queue.popleft()
                 for neighbor in graph[node]:
-                    if distances[neighbor] == -1:  # not visited
-                        distances[neighbor] = distances[node] + 1
+                    if visited[neighbor] == -1:  # not visited
+                        visited[neighbor] = visited[node] + 1
                         queue.append(neighbor)
                         if neighbor == target:
-                            return distances[neighbor]
+                            return visited[neighbor]
             return -1 
 
         result = []
