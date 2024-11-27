@@ -9,19 +9,19 @@ class Solution:
 
         def bfs(start, target):
             queue = deque([start])
-            visited = [-1] * n
-            visited[start] = 0
+            distances = [-1] * n
+            distances[start] = 0
 
-            print(visited)
+            print(distances)
 
             while queue:
                 node = queue.popleft()
                 for neighbor in graph[node]:
-                    if visited[neighbor] == -1:  # not visited
-                        visited[neighbor] = visited[node] + 1
+                    if distances[neighbor] == -1:  # not visited
+                        distances[neighbor] = distances[node] + 1
                         queue.append(neighbor)
                         if neighbor == target:
-                            return visited[neighbor]
+                            return distances[neighbor]
             return -1 
 
         result = []
