@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amancd/leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amancd/leetcode-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amancd/leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/amancd/leetcode-solution/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amancd/leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amancd/leetcode-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/amancd/leetcode-solution/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/amancd/leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Matrix
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/amancd/leetcode-solution/tree/master/2201-valid-arrangement-of-pairs) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amancd/leetcode-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
