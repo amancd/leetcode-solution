@@ -1,6 +1,5 @@
 class Solution:
     def maxCount(self, banned: List[int], n: int, maxSum: int) -> int:
-            
         ban = set()
 
         for i in range(len(banned)):
