@@ -8,7 +8,7 @@ class Solution:
             mid = (left + right)//2
             total = 0
             for num in nums:
-                total += math.ceil(num / mid) - 1
+                total += (num - 1) // mid
 
             if total <=maxOperations:
                 right = mid
