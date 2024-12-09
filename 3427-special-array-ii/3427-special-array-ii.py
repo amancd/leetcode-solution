@@ -8,10 +8,14 @@ class Solution:
             if nums[i - 1] % 2 == nums[i] % 2:
                 prefix[i] += 1
 
-        result = []
+        res = []
 
-        for left, right in queries:
-            special_count = prefix[right] - (prefix[left] if left > 0 else 0)
-            result.append(special_count == 0)
+        for l, r in queries:
+            if l > 0:
+                count = prefix[l] - prefix[r] 
+            else:
+                count = prefix[r]
+        
+            res.append(count == 0)
 
-        return result
+        return res
