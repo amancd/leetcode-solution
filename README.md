@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/amancd/leetcode-solution/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/amancd/leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/amancd/leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amancd/leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/amancd/leetcode-solution/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/amancd/leetcode-solution/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/amancd/leetcode-solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/amancd/leetcode-solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
