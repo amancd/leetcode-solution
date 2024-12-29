@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/amancd/leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amancd/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amancd/leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amancd/leetcode-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/amancd/leetcode-solution/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/amancd/leetcode-solution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/amancd/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amancd/leetcode-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amancd/leetcode-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/amancd/leetcode-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/amancd/leetcode-solution/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/amancd/leetcode-solution/tree/master/2300-construct-string-with-repeat-limit) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/amancd/leetcode-solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amancd/leetcode-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/amancd/leetcode-solution/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amancd/leetcode-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/amancd/leetcode-solution/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
 |  |
