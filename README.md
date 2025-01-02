@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/amancd/leetcode-solution/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amancd/leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amancd/leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amancd/leetcode-solution/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amancd/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amancd/leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amancd/leetcode-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amancd/leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amancd/leetcode-solution/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amancd/leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amancd/leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/amancd/leetcode-solution/tree/master/3427-special-array-ii) |
