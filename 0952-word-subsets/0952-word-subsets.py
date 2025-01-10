@@ -1,34 +1,36 @@
 class Solution:
     def wordSubsets(self, words1: List[str], words2: List[str]) -> List[str]:
+        def check_freq(word):
+            freq = {}
+            for w in word:
+                if w not in freq:
+                    freq[w] = 1
+                else:
+                    freq[w] += 1
+            return freq
+        
         max_freq = {}
-        for word in words2:
-            freq = {}
-            for char in word:
-                if char in freq:
-                    freq[char] += 1
+        for w in words2:
+            freq = check_freq(w)
+            for k in freq:
+                if k in max_freq:
+                    max_freq[k] = max(max_freq[k], freq[k])
                 else:
-                    freq[char] = 1
-            for char, count in freq.items():
-                if char in max_freq:
-                    max_freq[char] = max(max_freq[char], count)
-                else:
-                    max_freq[char] = count
-
-        result = []
-        for word in words1:
-            freq = {}
-            for char in word:
-                if char in freq:
-                    freq[char] += 1
-                else:
-                    freq[char] = 1
+                    max_freq[k] = freq[k]
             
-            valid = True
-            for char, count in max_freq.items():
-                if char not in freq or freq[char] < count:
-                    valid = False
-                    break
-            if valid:
-                result.append(word)
+        
+        print(max_freq)
 
-        return result
+        ans = []
+        for w in words1:
+            freq2 = check_freq(w)
+            valid = True
+            for k, v in max_freq.items():
+                if freq2.get(k, 0) < v:
+                    valid = False
+            
+            if valid:
+                ans.append(w)
+
+
+        return ans
