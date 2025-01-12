@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/amancd/leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amancd/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/amancd/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/amancd/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/amancd/leetcode-solution/tree/master/2089-maximum-matrix-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/amancd/leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amancd/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amancd/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amancd/leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/amancd/leetcode-solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amancd/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/amancd/leetcode-solution/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amancd/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/amancd/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/amancd/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amancd/leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
