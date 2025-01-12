@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/amancd/leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amancd/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amancd/leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amancd/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/amancd/leetcode-solution/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/amancd/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/amancd/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
