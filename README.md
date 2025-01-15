@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/amancd/leetcode-solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/amancd/leetcode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/amancd/leetcode-solution/tree/master/2465-shifting-letters-ii) |
+| [2486-most-frequent-even-element](https://github.com/amancd/leetcode-solution/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amancd/leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amancd/leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amancd/leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/amancd/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amancd/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/amancd/leetcode-solution/tree/master/2300-construct-string-with-repeat-limit) |
+| [2486-most-frequent-even-element](https://github.com/amancd/leetcode-solution/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amancd/leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/amancd/leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amancd/leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/amancd/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/amancd/leetcode-solution/tree/master/2300-construct-string-with-repeat-limit) |
+| [2486-most-frequent-even-element](https://github.com/amancd/leetcode-solution/tree/master/2486-most-frequent-even-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amancd/leetcode-solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Ordered Set
 |  |
