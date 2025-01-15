@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amancd/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/amancd/leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/amancd/leetcode-solution/tree/master/3427-special-array-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/amancd/leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/amancd/leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/amancd/leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amancd/leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amancd/leetcode-solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amancd/leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amancd/leetcode-solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/amancd/leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/amancd/leetcode-solution/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amancd/leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/amancd/leetcode-solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/amancd/leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
