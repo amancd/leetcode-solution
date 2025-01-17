@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/amancd/leetcode-solution/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amancd/leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/amancd/leetcode-solution/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/amancd/leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
