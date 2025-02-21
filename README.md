@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amancd/leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/amancd/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/amancd/leetcode-solution/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amancd/leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/amancd/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amancd/leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/amancd/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/amancd/leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/amancd/leetcode-solution/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/amancd/leetcode-solution/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/amancd/leetcode-solution/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/amancd/leetcode-solution/tree/master/1876-map-of-highest-peak) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amancd/leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/amancd/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/amancd/leetcode-solution/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/amancd/leetcode-solution/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/amancd/leetcode-solution/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/amancd/leetcode-solution/tree/master/2201-valid-arrangement-of-pairs) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amancd/leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/amancd/leetcode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/amancd/leetcode-solution/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amancd/leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/amancd/leetcode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amancd/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amancd/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/amancd/leetcode-solution/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
