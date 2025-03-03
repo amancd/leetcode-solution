@@ -5,7 +5,6 @@ class Solution:
         lesser = []
         greater = []
         equal = []
-        pivots = [pivot]
 
         for i in range(0, len(nums)):
             if nums[i] < nums[idx]:
