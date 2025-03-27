@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/amancd/leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amancd/leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/amancd/leetcode-solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amancd/leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amancd/leetcode-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amancd/leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
