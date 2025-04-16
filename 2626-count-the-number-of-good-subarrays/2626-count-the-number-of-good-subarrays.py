@@ -1,12 +1,15 @@
 class Solution(object):
     def countGood(self, nums, k):
-        cnt = 0
+        mpp = {}
+        cnt = left = 0
         for i in range(len(nums)):
-            mpp = {}
-            pairs = 0
-            for j in range(i, len(nums)):
-                pairs += mpp.get(nums[j], 0)
-                mpp[nums[j]] = mpp.get(nums[j], 0) + 1
-                if pairs >= k:
-                    cnt += 1
+            if nums[i] not in mpp:
+                mpp[nums[i]] = 0
+            k -= mpp[nums[i]]
+            mpp[nums[i]] += 1
+            while k <= 0:
+                mpp[nums[left]] -= 1
+                k += mpp[nums[left]]
+                left += 1
+            cnt += left
         return cnt
