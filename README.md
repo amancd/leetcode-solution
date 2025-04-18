@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amancd/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/amancd/leetcode-solution/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/amancd/leetcode-solution/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/amancd/leetcode-solution/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amancd/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
