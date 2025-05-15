@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amancd/leetcode-solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/amancd/leetcode-solution/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/amancd/leetcode-solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/amancd/leetcode-solution/tree/master/0868-push-dominoes) |
