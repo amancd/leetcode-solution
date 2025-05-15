@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amancd/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/amancd/leetcode-solution/tree/master/0368-largest-divisible-subset) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amancd/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amancd/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/amancd/leetcode-solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/amancd/leetcode-solution/tree/master/0797-rabbits-in-forest) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amancd/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/amancd/leetcode-solution/tree/master/0038-count-and-say) |
+| [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amancd/leetcode-solution/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/amancd/leetcode-solution/tree/master/0647-palindromic-substrings) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amancd/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amancd/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/amancd/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/amancd/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amancd/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amancd/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -789,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/amancd/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
