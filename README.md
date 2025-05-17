@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amancd/leetcode-solution/tree/master/0152-maximum-product-subarray) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amancd/leetcode-solution/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/amancd/leetcode-solution/tree/master/0368-largest-divisible-subset) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amancd/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amancd/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/amancd/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/amancd/leetcode-solution/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/amancd/leetcode-solution/tree/master/0647-palindromic-substrings) |
