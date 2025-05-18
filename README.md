@@ -409,11 +409,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amancd/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amancd/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/amancd/leetcode-solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amancd/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/amancd/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/amancd/leetcode-solution/tree/master/2050-count-good-numbers) |
 ## Hash Table
