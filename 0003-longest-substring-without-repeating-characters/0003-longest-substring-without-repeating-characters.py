@@ -3,12 +3,13 @@ class Solution:
 
         maximum = 0
 
+        left = 0
+        for right in range(len(s)):
 
-        for i in range(len(s)):
-            for j in range(i, len(s)):
-                if len(set(s[i:j+1])) == len(s[i:j+1]):
-                    maximum = max(maximum, j - i + 1)
-                else:
-                    break
+            if len(set(s[left:right+1])) == len(s[left:right+1]):
+                maximum = max(maximum, right - left + 1)
+            
+            else:
+                left +=1
         
         return maximum
