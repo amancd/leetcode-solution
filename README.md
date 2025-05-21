@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/amancd/leetcode-solution/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amancd/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amancd/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amancd/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/amancd/leetcode-solution/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/amancd/leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amancd/leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
