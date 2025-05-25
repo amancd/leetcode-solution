@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amancd/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/amancd/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amancd/leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amancd/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/amancd/leetcode-solution/tree/master/1755-defuse-the-bomb) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amancd/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amancd/leetcode-solution/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/amancd/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/amancd/leetcode-solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/amancd/leetcode-solution/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amancd/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amancd/leetcode-solution/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/amancd/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/amancd/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/amancd/leetcode-solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/amancd/leetcode-solution/tree/master/0868-push-dominoes) |
