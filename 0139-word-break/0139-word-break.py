@@ -3,7 +3,7 @@ class Solution:
 
         word = set(wordDict)
         
-        n = len(wordDict)
+        n = len(s)
         dp = [False] * (n + 1)
         dp[0] = True
 
