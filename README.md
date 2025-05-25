@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amancd/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amancd/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/amancd/leetcode-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/amancd/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amancd/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/amancd/leetcode-solution/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/amancd/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/amancd/leetcode-solution/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/amancd/leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amancd/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/amancd/leetcode-solution/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amancd/leetcode-solution/tree/master/0152-maximum-product-subarray) |
