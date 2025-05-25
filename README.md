@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amancd/leetcode-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amancd/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/amancd/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/amancd/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amancd/leetcode-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/amancd/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/amancd/leetcode-solution/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/amancd/leetcode-solution/tree/master/0787-sliding-puzzle) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/amancd/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/amancd/leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/amancd/leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/amancd/leetcode-solution/tree/master/2232-adding-spaces-to-a-string) |
