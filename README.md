@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/amancd/leetcode-solution/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/amancd/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/amancd/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amancd/leetcode-solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/amancd/leetcode-solution/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/amancd/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/amancd/leetcode-solution/tree/master/0797-rabbits-in-forest) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amancd/leetcode-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/amancd/leetcode-solution/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/amancd/leetcode-solution/tree/master/0787-sliding-puzzle) |
