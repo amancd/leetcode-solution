@@ -3,21 +3,13 @@ class Solution:
         
         intervals.sort(key=lambda x:x[0])
 
-        merged = [intervals[0]]
-
+        end = intervals[0][1]
         count = 0
-        for i in range(1, len(intervals)):
-            prev_start, prev_end = merged[-1]
-            curr_start, curr_end = intervals[i]
 
-            if prev_end > curr_start:
-                merged[-1][1] = min(prev_end, curr_end)
+        for i in range(1, len(intervals)):
+            if intervals[i][0] < end:
                 count += 1
             else:
-                merged.append([curr_start, curr_end])
+                end = intervals[i][1]
         
         return count
-            
-
-
-            
