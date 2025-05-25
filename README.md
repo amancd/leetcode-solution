@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amancd/leetcode-solution/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/amancd/leetcode-solution/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/amancd/leetcode-solution/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/amancd/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/amancd/leetcode-solution/tree/master/0797-rabbits-in-forest) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amancd/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amancd/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amancd/leetcode-solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/amancd/leetcode-solution/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amancd/leetcode-solution/tree/master/0152-maximum-product-subarray) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amancd/leetcode-solution/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amancd/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/amancd/leetcode-solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/amancd/leetcode-solution/tree/master/3548-find-the-count-of-good-integers) |
