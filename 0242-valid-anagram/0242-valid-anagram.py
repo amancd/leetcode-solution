@@ -5,16 +5,11 @@ class Solution:
         freq_t = {}
 
         for ch in s:
-            if ch not in freq_s:
-                freq_s[ch] = 1
-            else:
-                freq_s[ch] += 1
+            freq_s[ch] = freq_s.get(ch, 0) + 1
         
         for ch in t:
-            if ch not in freq_t:
-                freq_t[ch] = 1
-            else:
-                freq_t[ch] += 1
+            freq_t[ch] = freq_t.get(ch, 0) + 1
+            
 
         if freq_s == freq_t:
             return True
