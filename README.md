@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/amancd/leetcode-solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amancd/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/amancd/leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/amancd/leetcode-solution/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amancd/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amancd/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
