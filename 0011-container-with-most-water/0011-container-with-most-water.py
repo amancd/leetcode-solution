@@ -3,17 +3,16 @@ class Solution:
         
         l = 0
         r = len(height) - 1
-
         maximum_area = 0
-        while l<r:
+
+        while l < r:
             w = r - l
             h = min(height[l], height[r])
-            area = w * h
-            maximum_area = max(maximum_area, area)
-            
+            maximum_area = max(maximum_area, w * h)
+
             if height[l] < height[r]:
                 l+=1
             else:
                 r-=1
-
+        
         return maximum_area
