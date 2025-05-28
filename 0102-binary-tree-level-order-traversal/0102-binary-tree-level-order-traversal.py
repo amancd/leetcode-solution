@@ -10,23 +10,21 @@ class Solution:
             return []
         
         result = []
-        queue = deque([root])  # Initialize the queue with the root
-        
+        queue = deque([root])
+
         while queue:
-            level_size = len(queue)  # Number of nodes at the current level
+            level_size = len(queue)
             level_values = []
-            
+
             for _ in range(level_size):
-                node = queue.popleft()  # Dequeue the front node
-                level_values.append(node.val)  # Record the value
-                
-                # Enqueue the children of the current node
+                node = queue.popleft()
+                level_values.append(node.val)
+
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
             
-            result.append(level_values)  # Add the current level's values to the result
-        
+            result.append(level_values)
+
         return result
-        
