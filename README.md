@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amancd/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amancd/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/amancd/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amancd/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amancd/leetcode-solution/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/amancd/leetcode-solution/tree/master/0344-reverse-string) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amancd/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/amancd/leetcode-solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amancd/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/amancd/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amancd/leetcode-solution/tree/master/0344-reverse-string) |
