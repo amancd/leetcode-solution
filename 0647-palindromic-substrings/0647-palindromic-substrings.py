@@ -1,6 +1,6 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-
+        
         total = 0
         for i in range(len(s)):
             for j in range(i, len(s)):
