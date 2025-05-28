@@ -14,8 +14,8 @@ class Solution:
             fast = fast.next
 
         while fast.next:
-            fast = fast.next
             slow = slow.next
+            fast = fast.next
         
         slow.next = slow.next.next
 
