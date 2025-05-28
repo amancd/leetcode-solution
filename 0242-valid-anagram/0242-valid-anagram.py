@@ -1,6 +1,5 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        
         freq_s = {}
         freq_t = {}
 
@@ -9,9 +8,5 @@ class Solution:
         
         for ch in t:
             freq_t[ch] = freq_t.get(ch, 0) + 1
-            
-
-        if freq_s == freq_t:
-            return True
-
-        return False
+        
+        return freq_s == freq_t
