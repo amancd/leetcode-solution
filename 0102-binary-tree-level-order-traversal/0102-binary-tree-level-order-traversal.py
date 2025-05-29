@@ -9,22 +9,24 @@ class Solution:
         if not root:
             return []
         
-        result = []
         queue = deque([root])
+        result = []
 
         while queue:
             level_size = len(queue)
-            level_values = []
+            level = []
 
             for _ in range(level_size):
                 node = queue.popleft()
-                level_values.append(node.val)
+                level.append(node.val)
 
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
             
-            result.append(level_values)
 
+            result.append(level)
+    
+        
         return result
