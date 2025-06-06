@@ -4,6 +4,7 @@ class Solution:
         maximum = 0
         left = 0
 
+
         for right in range(len(s)):
 
             if len(set(s[left:right+1])) == len(s[left:right+1]):
@@ -12,6 +13,5 @@ class Solution:
             
             else:
                 left += 1
-        
+
         return maximum
-                
