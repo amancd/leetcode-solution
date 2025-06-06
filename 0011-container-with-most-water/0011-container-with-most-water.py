@@ -13,7 +13,7 @@ class Solution:
 
             maximum_area = max(maximum_area, area)
 
-            if area > height[l]:
+            if height[l] < height[r]:
                 l+=1
             else:
                 r-=1
