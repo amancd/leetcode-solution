@@ -4,7 +4,6 @@ class Solution:
         res = []
         nums.sort()
 
-
         for i in range(len(nums)-2):
 
             l = i+1
@@ -29,6 +28,5 @@ class Solution:
                     l+=1
                 else:
                     r-=1
-            
         
         return res
