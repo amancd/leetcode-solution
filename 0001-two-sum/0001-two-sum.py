@@ -3,10 +3,7 @@ class Solution:
         comp = {}
 
         for i in range(len(nums)):
-
             diff = target - nums[i]
-
-            print(diff)
 
             if nums[i] in comp:
                 return [comp[nums[i]], i]
