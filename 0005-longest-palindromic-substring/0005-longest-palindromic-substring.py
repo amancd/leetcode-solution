@@ -5,10 +5,10 @@ class Solution:
         maximum = 0
 
         for i in range(len(s)):
-            for j in range(i, len(s)):
-                 if s[i:j+1] == s[i:j+1][::-1]:
-                    if maximum < len(s[i:j+1]):
-                        res = s[i:j+1]
-                        maximum = len(s[i:j+1])
+            for j in range(i+1):
+                if s[j:i+1] == s[j:i+1][::-1]:
+                    if len(s[j:i+1]) > maximum:
+                        res = s[j:i+1]
+                        maximum = len(s[j:i+1])
         
         return res
