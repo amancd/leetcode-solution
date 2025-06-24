@@ -9,6 +9,7 @@ class Solution:
             if nums[i] in comp:
                 return [comp[nums[i]], i]
             
+            
             comp[diff] = i
         
         return []
