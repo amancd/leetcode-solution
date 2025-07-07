@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amancd/leetcode-solution/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancd/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amancd/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/amancd/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/amancd/leetcode-solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/amancd/leetcode-solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amancd/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amancd/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancd/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/amancd/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/amancd/leetcode-solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amancd/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/amancd/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/amancd/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/amancd/leetcode-solution/tree/master/0684-redundant-connection) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/amancd/leetcode-solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/amancd/leetcode-solution/tree/master/1396-count-servers-that-communicate) |
