@@ -3,19 +3,18 @@ class Solution:
         
         l = 0
         r = len(height) - 1
-
-        maximum_area = 0
+        maximum = 0
 
         while l < r:
-            w = r - l
             h = min(height[l], height[r])
-            area = w * h
+            w = r - l
+            area = h * w
 
-            maximum_area = max(maximum_area, area)
+            maximum = max(maximum, area)
 
             if height[l] < height[r]:
                 l+=1
             else:
                 r-=1
         
-        return maximum_area
+        return maximum
