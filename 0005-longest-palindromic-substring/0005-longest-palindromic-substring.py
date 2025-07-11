@@ -6,9 +6,11 @@ class Solution:
 
         for i in range(len(s)):
             for j in range(i+1):
-                if s[j:i+1] == s[j:i+1][::-1]:
-                    if maximum < len(s[j:i+1]):
-                        maximum = len(s[j:i+1])
-                        res = s[j:i+1]
+                st = s[j:i+1]
+
+                if st == st[::-1]:
+                    if len(st) > maximum:
+                        maximum = len(st)
+                        res = st
         
         return res
