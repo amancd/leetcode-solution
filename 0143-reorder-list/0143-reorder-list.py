@@ -8,7 +8,7 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        
+
         if not head or not head.next:
             return
 
@@ -16,10 +16,11 @@ class Solution:
         fast = head
 
         while fast and fast.next:
-            slow = slow.next
             fast = fast.next.next
-
-        prev, curr = None, slow
+            slow = slow.next
+        
+        prev = None
+        curr = slow
 
         while curr:
             temp = curr.next
@@ -27,9 +28,11 @@ class Solution:
             prev = curr
             curr = temp
         
-        first, second = head, prev
+        first = head
+        second = prev
         while second.next:
-            temp1, temp2 = first.next, second.next
+            temp1 = first.next
+            temp2 = second.next
 
             first.next = second
             second.next = temp1
