@@ -5,13 +5,13 @@ class Solution:
 
         pairs = {"}":"{", ")":"(", "]":"["}
 
-        for st in s:
-
-            if st not in pairs:
-                stack.append(st)
+        for ch in s:
+            if ch not in pairs:
+                stack.append(ch)
 
             else:
-                if not stack or stack[-1] != pairs[st]:
+
+                if not stack or stack[-1] != pairs[ch]:
                     return False
                 else:
                     stack.pop()
