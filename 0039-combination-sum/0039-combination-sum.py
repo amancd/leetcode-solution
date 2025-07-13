@@ -1,6 +1,6 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        
+
         dp = [[] for _ in range(target + 1)]
         dp[0] = [[]]
 
