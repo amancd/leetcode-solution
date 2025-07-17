@@ -7,6 +7,8 @@ class Solution:
 
             sorted_words = "".join(sorted(st))
 
+            print(sorted_words)
+
             ans[sorted_words].append(st)
         
         return list(ans.values())
